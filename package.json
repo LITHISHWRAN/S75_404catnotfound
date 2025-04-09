@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/LITHISHWRAN/S75_404catnotfound/issues"
   },
-  "homepage": "https://github.com/LITHISHWRAN/S75_404catnotfound#readme"
+  "homepage": "https://github.com/LITHISHWRAN/S75_404catnotfound#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
